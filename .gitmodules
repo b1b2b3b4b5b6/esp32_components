@@ -1,0 +1,12 @@
+[submodule "ccom"]
+	path = ccom
+	url = https://git.dev.tencent.com/lumos/ccom.git
+[submodule "epcom"]
+	path = epcom
+	url = https://git.dev.tencent.com/lumos/epcom.git
+[submodule "mcb"]
+	path = mcb
+	url = https://git.dev.tencent.com/lumos/mcb.git
+[submodule "modbus"]
+	path = modbus
+	url = https://git.dev.tencent.com/lumos/modbus.git
