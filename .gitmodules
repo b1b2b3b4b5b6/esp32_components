@@ -1,12 +1,12 @@
 [submodule "ccom"]
 	path = ccom
-	url = https://git.dev.tencent.com/lumos/ccom.git
+	url = https://github.com/b1b2b3b4b5b6/ccom.git
 [submodule "epcom"]
 	path = epcom
-	url = https://git.dev.tencent.com/lumos/epcom.git
+	url = https://github.com/b1b2b3b4b5b6/epom.git
 [submodule "mcb"]
 	path = mcb
-	url = https://git.dev.tencent.com/lumos/mcb.git
+	url = https://github.com/b1b2b3b4b5b6/mcb.git
 [submodule "modbus"]
 	path = modbus
-	url = https://git.dev.tencent.com/lumos/modbus.git
+	url = https://github.com/b1b2b3b4b5b6/modbus.git
